@@ -16,5 +16,5 @@
   <strong><a href="https://www.instagram.com/_obsessivebf/">Instagram</a></strong> 
 </p>
 
-<p align="center">❤ I'm currently working on Minecraft Plugins, Anime / Manga, Game Dev, and Server management. ❤</p>
+<p align="center"> I'm currently working on Minecraft Plugins, Game Dev, and Server management. ❤</p>
 
