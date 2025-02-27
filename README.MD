@@ -8,8 +8,6 @@
 
 19 years old;
 
-Front & Backend Developer, Experienced with Java, Python, LUA, and JavaScript
-
 CyberSecurity Engineer.
 
 💬 you can talk to me if you need help!
@@ -18,11 +16,11 @@ CyberSecurity Engineer.
 
 ```diff
 + This is the stack and technologies that I work with:
-C#, .NET, Angular, Postgresql, Jasmine, xUnit.
+Python, Java, JavaScript, Bash, Node.js, Linux, Windows Forensics, Lua, Pterodactyl.
 + And the ones I'm studying:
-Ethics in AI.
+Networking, Forensics, Red Team Tactics, OSINT, Malware Analysis, Reverse Engineering.
 + In a long long time ago, I worked with:
-MongoDB, Xamarin (iOS and Android), AWS, Azure Database, SQLServer, MySQL.
+Minecraft Plugin Development, Discord Bots, Web Scraping, SQL Databases.
 ```
 
 ---
