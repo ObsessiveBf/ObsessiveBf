@@ -1,5 +1,7 @@
 ## Hi there, I'm Rio 👋
-linkedin ; lattes ; dev.to ; hello@obsessive.cc
+<pre>
+  hello@obsessive.cc
+</pre>
 
 
 <br/>
