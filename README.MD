@@ -3,6 +3,11 @@
   hello@obsessive.cc | <a href="https://discord.com/users/813070605158580254" target="_blank">Discord</a> ; <a href="https://twitter.com/obsessivecc" target="_blank">X</a></a> 
 </pre>
 
+```
+"The only secure system is the one that’s powered off, cast in a block of concrete, and sealed in a lead-lined room with armed guards." 
+
+— Gene Spafford
+```
 
 <br/>
 
