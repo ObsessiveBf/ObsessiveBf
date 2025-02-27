@@ -15,7 +15,7 @@ CyberSecurity Engineer.
 <img align="right" width="180" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif"/>
 
 ```diff
-+ This is the stack and technologies that I work with:
++ My Technical Stack & Expertise:
 Python, Java, JavaScript, Bash, Node.js, Linux, Windows Forensics, Lua, Powershell.
 + And the ones I'm studying:
 Networking, Forensics, Penetration Testing & Offensive Operations, OSINT, Malware Analysis, Reverse Engineering, Threat Hunting.
