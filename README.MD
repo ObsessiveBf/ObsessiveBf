@@ -6,9 +6,9 @@ linkedin ; lattes ; dev.to ; hello@obsessive.cc
 
 19 years old;
 
-Back-end developer for 6 years;
+Front & Backend Developer, Experienced with Java, Python, LUA, and JavaScript
 
-Specialist in Applied Artificial Intelligence at Federal University of Parana (UFPR).
+CyberSecurity Engineer.
 
 💬 you can talk to me if you need help!
 
