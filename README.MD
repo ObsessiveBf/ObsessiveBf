@@ -16,11 +16,11 @@ CyberSecurity Engineer.
 
 ```diff
 + This is the stack and technologies that I work with:
-Python, Java, JavaScript, Bash, Node.js, Linux, Windows Forensics, Lua, Pterodactyl.
+Python, Java, JavaScript, Bash, Node.js, Linux, Windows Forensics, Lua, Powershell.
 + And the ones I'm studying:
-Networking, Forensics, Red Team Tactics, OSINT, Malware Analysis, Reverse Engineering.
-+ In a long long time ago, I worked with:
-Minecraft Plugin Development, Discord Bots, Web Scraping, SQL Databases.
+Networking, Forensics, Penetration Testing & Offensive Operations, OSINT, Malware Analysis, Reverse Engineering, Threat Hunting.
++ My prior experience covers:
+Minecraft Plugin Development, Discord Bot Development, Web Scraping & Automation, Relational & NoSQL Databases (SQL, MongoDB), Web Application Security, Network Traffic Analysis, Malware Sandboxing, Reverse Engineering.
 ```
 
 ---
