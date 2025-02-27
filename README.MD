@@ -4,8 +4,8 @@
 </pre>
 
 ```
-"The only secure system is the one that’s powered off, cast in a 
-block of concrete, and sealed in a lead-lined room with armed guards." 
+"The only truly secure system is one that’s powered off, cast in a block of concrete, sealed in a lead-lined room with armed guards.
+But even then, someone will find a way in."
 
 — Gene Spafford
 ```
