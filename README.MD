@@ -1,6 +1,6 @@
 ## Hi there, I'm Rio 👋
 <pre>
-  hello@obsessive.cc
+  hello@obsessive.cc | <a href="https://www.linkedin.com/in/luizarvm/?locale=en_US" target="_blank">linkedin</a> ; <a href="http://lattes.cnpq.br/1667735616723826" target="_blank">lattes</a> ; <a href="https://dev.to/luizoux" target="_blank">dev.to</a> 
 </pre>
 
 
