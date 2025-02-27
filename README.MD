@@ -23,11 +23,31 @@ Networking, Forensics, Penetration Testing & Offensive Operations, OSINT, Malwar
 Minecraft Plugin Development, Discord Bot Development, Web Scraping & Automation, Relational & NoSQL Databases (SQL, MongoDB), Web Application Security, Network Traffic Analysis, Malware Sandboxing, Reverse Engineering.
 ```
 
+### 🛠️ **Tech Stack & Tools**
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img alt="Reverse Engineering" src="https://img.shields.io/badge/-Reverse_Engineering-800080?style=flat-square&logo=proxmox&logoColor=white" />
+  <img alt="Digital Forensics" src="https://img.shields.io/badge/-Digital_Forensics-1f6feb?style=flat-square&logo=wireshark&logoColor=white" />
+  <img alt="Cybersecurity" src="https://img.shields.io/badge/-Cybersecurity-ff0000?style=flat-square&logo=burp-suite&logoColor=white" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp_Suite-FF7300?style=flat-square&logo=burp-suite&logoColor=white" />
+  <img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-0036A0?style=flat-square&logo=metasploit&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Pterodactyl" src="https://img.shields.io/badge/-Pterodactyl-5865F2?style=flat-square&logo=proxmox&logoColor=white" />
+</p>
+
 ---
 
 ### 📊 GitHub Stats:
 
 [![obsessivebf GitHub Stats](https://github-readme-stats.vercel.app/api?username=obsessivebf&hide_title=true&theme=tokyonight&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![obsessivebf Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obsessivebf&count_private=true&layout=compact&theme=tokyonight)](https://github.com/obsessivebf?tab=repositories)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=obsessivebf&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=obsessivebf&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
