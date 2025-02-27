@@ -62,9 +62,5 @@ Minecraft Plugin Development, Discord Bot Development, Web Scraping & Automation
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=obsessivebf&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<br>
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=obsessivebf&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
