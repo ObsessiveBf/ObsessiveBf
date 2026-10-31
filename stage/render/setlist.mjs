@@ -28,10 +28,16 @@ export function renderSetlist(cfg) {
   const tagRight = px + pw - 48;
   const rows = [];
   let y = py + 176;
-  const items = cfg.setlist;
+  // hidden entries stay in config.json for later but don't show up;
+  // songs are numbered M1, M2... automatically, the encore row is EN
+  let m = 0;
+  const items = cfg.setlist
+    .filter((it) => !it.hidden)
+    .map((it) => (it.mc ? it : { ...it, no: it.encore || it.no === 'EN' ? 'EN' : `M${++m}` }));
 
   for (const it of items) {
     if (it.mc) {
+      y += 10;
       rows.push({ it, y, h: 64 });
       y += 64;
       continue;

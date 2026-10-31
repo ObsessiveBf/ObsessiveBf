@@ -3,12 +3,6 @@
   Every graphic in assets/stage is generated from stage/config.json by stage/build.mjs
   (a GitHub Action re-renders them daily and whenever the config changes).
 -->
-
-
-https://github.com/user-attachments/assets/abf08ed6-eac0-41e1-9c5e-ec28dbd49760
-
-
-
 <p align="center">
   <a href="https://www.obsessive.cc"><img src="assets/stage/ticket.svg" width="100%" alt="Ticket: RIO, cybersecurity × game dev. After school live, open 15:30, start 16:00, NYU New York, all standing. Scan for obsessive.cc"></a>
 </p>
@@ -23,9 +17,9 @@ https://github.com/user-attachments/assets/abf08ed6-eac0-41e1-9c5e-ec28dbd49760
 
 **Hey, I'm Rio.** CS at NYU, cybersecurity by trade, game dev by obsession.
 
-I build the tools that catch cheaters (Windows forensics, screenshare tooling) and the worlds people cheat in (Unreal Engine, Minecraft plugins). The endgame is **anti-cheat**, where both halves meet.
+I build the tools that catch cheaters (Windows forensics, screenshare tooling) and the worlds people cheat in (Unreal Engine, Minecraft plugins). Long term: **a full game of my own, released on Steam.**
 
-Before NYU I helped run Minecraft and Discord communities (~3M Discord members combined), founded **Sorex Development**, built **XX for Saudi students, interned in cybersecurity at x and did an externship at x on assistive vision.
+Before NYU I helped run Minecraft and Discord communities (~3M Discord members combined), founded **Sorex Development**, built an exam-prep platform for Saudi students, did a cybersecurity internship and an externship on AI assistive vision.
 
 <br clear="right">
 
@@ -33,17 +27,19 @@ Before NYU I helped run Minecraft and Discord communities (~3M Discord members c
 
 <img src="assets/stage/now-playing.svg" width="100%" alt="Now playing: 放課後ティータイム (live), 1:30">
 
-<!-- ▼ VIDEO: edit this file on github.com, drag video.mp4 onto the line below, wait for the upload, commit. -->
+<!-- ▼ VIDEO -->
+
+https://github.com/user-attachments/assets/abf08ed6-eac0-41e1-9c5e-ec28dbd49760
 
 
 <img src="assets/stage/h-setlist.svg" width="100%" alt="03 SETLIST: things I've built">
 
 <p align="center">
-  <img src="assets/stage/setlist.svg" width="100%" alt="Setlist. M1 United Factions: my Minecraft factions server, since 2022. M2 Sorex Development: the plugin studio I started. M3 20+ plugins and bots: Minecraft Tierlist, Hoplite, Dawn Client. M4 Screenshare kit: HWID, Task Scheduler and service checks. MC: tea break. M5 Tamkeen: free exam prep used across Saudi schools. M6 KOTAE!: anime jeopardy. M7 AniTracker: auto-updates your MAL. Encore: anti-cheat.">
+  <img src="assets/stage/setlist.svg" width="100%" alt="Setlist. M1 20+ plugins: Minecraft, 100k+ unique users. M2 Discord bots: 500k+ unique users. M3 Screenshare kit: HWID, Task Scheduler and service checks. MC: tea break. M4 Kioku: open-source anime index. M5 KOTAE!: anime jeopardy. M6 AniTracker: auto-updates your MAL. Encore: a full game on Steam.">
 </p>
 
 <p align="center">
-  <sub><b>RECEIPTS</b> &nbsp;·&nbsp; <a href="https://unitedfactions.net">unitedfactions.net</a> &nbsp;·&nbsp; <a href="https://github.com/ObsessiveBf/HWID-Parser">HWID-Parser</a> &nbsp;·&nbsp; <a href="https://github.com/ObsessiveBf/Task-Scheduler-Parser">Task-Scheduler-Parser</a> &nbsp;·&nbsp; <a href="https://github.com/ObsessiveBf/AmIGoodToGo">AmIGoodToGo</a> &nbsp;·&nbsp; <a href="https://github.com/ObsessiveBf/AniTracker">AniTracker</a></sub>
+  <sub><b>RECEIPTS</b> &nbsp;·&nbsp; <a href="https://github.com/ObsessiveBf/HWID-Parser">HWID-Parser</a> &nbsp;·&nbsp; <a href="https://github.com/ObsessiveBf/Task-Scheduler-Parser">Task-Scheduler-Parser</a> &nbsp;·&nbsp; <a href="https://github.com/ObsessiveBf/AmIGoodToGo">AmIGoodToGo</a> &nbsp;·&nbsp; <a href="https://github.com/ObsessiveBf/AniTracker">AniTracker</a></sub>
 </p>
 
 <img src="assets/stage/h-gear.svg" width="100%" alt="04 GEAR: what I play with">

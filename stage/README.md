@@ -15,7 +15,7 @@ today's date.
 | `ticket.fields` | the four printed fields at the bottom of the ticket |
 | `marquee` | the LED sign (`c` = amber, pink, mint, white, blue) |
 | `nowPlaying` | the player bar above the video (`seconds` = progress bar length) |
-| `setlist`, `setlistMeta` | the setlist (`{ "mc": true, ... }` is the tea break row) |
+| `setlist`, `setlistMeta` | the setlist: numbered M1, M2... automatically. `"encore": true` makes the EN row, `{ "mc": true, ... }` is the tea break, `"hidden": true` keeps an entry in the file without showing it |
 | `pedals` | the pedalboard, in signal-chain order (top row left to right, bottom row right to left) |
 | `sections` | the tape headers |
 | `contacts` | the encore buttons |

@@ -85,25 +85,16 @@
   },
   "setlist": [
     {
-      "no": "M1",
-      "title": "UNITED FACTIONS",
-      "note": "my minecraft factions server, since 2022",
-      "tag": "OWNER"
+      "title": "20+ PLUGINS",
+      "note": "minecraft, 100k+ unique users",
+      "tag": "JAVA"
     },
     {
-      "no": "M2",
-      "title": "SOREX DEVELOPMENT",
-      "note": "the plugin studio i started",
-      "tag": "FOUNDER"
+      "title": "DISCORD BOTS",
+      "note": "500k+ unique users",
+      "tag": "NODE"
     },
     {
-      "no": "M3",
-      "title": "20+ PLUGINS & BOTS",
-      "note": "minecraft tierlist, hoplite, dawn client",
-      "tag": "JAVA / JS"
-    },
-    {
-      "no": "M4",
       "title": "SCREENSHARE KIT",
       "note": "hwid, task scheduler + service checks",
       "tag": "PS1"
@@ -115,28 +106,31 @@
       "note": "(non-negotiable)"
     },
     {
-      "no": "M5",
-      "title": "TAMKEEN",
-      "note": "free exam prep used across saudi schools",
-      "tag": "EDU"
+      "title": "KIOKU 記憶",
+      "note": "open-source anime index / wiki",
+      "tag": "WIP"
     },
     {
-      "no": "M6",
       "title": "KOTAE!",
       "note": "anime jeopardy for one-screen game nights",
       "tag": "WIP"
     },
     {
-      "no": "M7",
       "title": "ANITRACKER",
       "note": "auto-updates your MAL while you watch",
       "tag": "WIP"
     },
     {
-      "no": "EN",
-      "title": "ANTI-CHEAT",
+      "title": "SOREX DEVELOPMENT",
+      "note": "the plugin studio i started",
+      "tag": "FOUNDER",
+      "hidden": true
+    },
+    {
+      "title": "FULL GAME ON STEAM",
       "note": "the long game",
-      "tag": "SOON"
+      "tag": "SOON",
+      "encore": true
     }
   ],
   "pedals": [
