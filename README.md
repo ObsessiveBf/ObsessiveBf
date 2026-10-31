@@ -3,6 +3,12 @@
   Every graphic in assets/stage is generated from stage/config.json by stage/build.mjs
   (a GitHub Action re-renders them daily and whenever the config changes).
 -->
+
+
+https://github.com/user-attachments/assets/bb0c78bd-3891-4600-bfdf-8ef2041940b2
+
+
+
 <p align="center">
   <a href="https://www.obsessive.cc"><img src="assets/stage/ticket.svg" width="100%" alt="Ticket: RIO, cybersecurity × game dev. After school live, open 15:30, start 16:00, NYU New York, all standing. Scan for obsessive.cc"></a>
 </p>
