@@ -44,13 +44,6 @@
       "color": "pink"
     },
     {
-      "id": "live",
-      "title": "NOW PLAYING",
-      "jp": "オープニング",
-      "en": "the opening act",
-      "color": "blue"
-    },
-    {
       "id": "setlist",
       "title": "SETLIST",
       "jp": "セットリスト",

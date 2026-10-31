@@ -1,0 +1,50 @@
+name: stage
+
+# Re-renders the README graphics:
+#  - whenever you push a change under stage/ (edit stage/config.json to change any text)
+#  - every night just after midnight New York time, so the ticket + setlist show today's date
+#  - on demand from the Actions tab
+on:
+  push:
+    branches: [main]
+    paths: ["stage/**", ".github/workflows/stage.yml"]
+  schedule:
+    - cron: "7 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stage
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: stage/package-lock.json
+
+      - run: npm ci --prefix stage --no-audit --no-fund
+
+      - run: node stage/build.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit the new render (only if something changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+            exit 0
+          fi
+          git commit -m "stage: re-render $(TZ=America/New_York date +%F)"
+          git push
