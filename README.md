@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/bb0c78bd-3891-4600-bfdf-8ef2041940b2
 </p>
 
 <p align="center">
-  <img src="assets/stage/marquee.svg" width="100%" alt="Now showing: Rio @ NYU. Studying PNPT and Windows forensics. Learning electric guitar and Japanese. Building KOTAE! and obsessive.cc. Walk-ins welcome.">
+  <img src="assets/stage/marquee.svg" width="100%" alt="Now showing: Rio @ NYU. Studying PNPT and Windows forensics. Passionate about game design, cybersec, guitar and Japanese. Building KOTAE! and obsessive.cc. Walk-ins welcome.">
 </p>
 
 <img src="assets/stage/h-mc.svg" width="100%" alt="01 MC: about me">
