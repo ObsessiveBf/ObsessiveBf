@@ -4,6 +4,11 @@
   (a GitHub Action re-renders them daily and whenever the config changes).
 -->
 
+
+https://github.com/user-attachments/assets/abf08ed6-eac0-41e1-9c5e-ec28dbd49760
+
+
+
 <p align="center">
   <a href="https://www.obsessive.cc"><img src="assets/stage/ticket.svg" width="100%" alt="Ticket: RIO, cybersecurity × game dev. After school live, open 15:30, start 16:00, NYU New York, all standing. Scan for obsessive.cc"></a>
 </p>
