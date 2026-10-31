@@ -1,0 +1,409 @@
+{
+  "login": "ObsessiveBf",
+  "name": "RIO",
+  "kana": "リオ",
+  "handle": "obsessivebf",
+  "role": "CS @ NYU",
+  "tagline": "CYBERSECURITY × GAME DEV",
+  "subline": "windows forensics / anti-cheat / unreal engine",
+  "site": "https://www.obsessive.cc",
+  "siteLabel": "OBSESSIVE.CC",
+  "ticket": {
+    "event": "放課後ライブ",
+    "eventEn": "AFTER SCHOOL LIVE",
+    "no": "001",
+    "fields": [
+      {
+        "jp": "開場/開演",
+        "en": "OPEN/START",
+        "value": "15:30 / 16:00"
+      },
+      {
+        "jp": "会場",
+        "en": "VENUE",
+        "value": "NYU · NEW YORK"
+      },
+      {
+        "jp": "料金",
+        "en": "ADV/DOOR",
+        "value": "¥0 (+1★)"
+      },
+      {
+        "jp": "席",
+        "en": "SEAT",
+        "value": "ALL STANDING"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "mc",
+      "title": "MC",
+      "jp": "トーク",
+      "en": "about me",
+      "color": "pink"
+    },
+    {
+      "id": "live",
+      "title": "NOW PLAYING",
+      "jp": "オープニング",
+      "en": "the opening act",
+      "color": "blue"
+    },
+    {
+      "id": "setlist",
+      "title": "SETLIST",
+      "jp": "セットリスト",
+      "en": "things i've built",
+      "color": "mint"
+    },
+    {
+      "id": "gear",
+      "title": "GEAR",
+      "jp": "機材",
+      "en": "what i play with",
+      "color": "cream"
+    },
+    {
+      "id": "backstage",
+      "title": "BACKSTAGE",
+      "jp": "楽屋",
+      "en": "do not disturb",
+      "color": "pink"
+    },
+    {
+      "id": "encore",
+      "title": "ENCORE",
+      "jp": "アンコール",
+      "en": "say hi",
+      "color": "blue"
+    }
+  ],
+  "setlistMeta": {
+    "venue": "@ github.com",
+    "note": "all ages · no flash"
+  },
+  "setlist": [
+    {
+      "no": "M1",
+      "title": "UNITED FACTIONS",
+      "note": "my minecraft factions server, since 2022",
+      "tag": "OWNER"
+    },
+    {
+      "no": "M2",
+      "title": "SOREX DEVELOPMENT",
+      "note": "the plugin studio i started",
+      "tag": "FOUNDER"
+    },
+    {
+      "no": "M3",
+      "title": "20+ PLUGINS & BOTS",
+      "note": "minecraft tierlist, hoplite, dawn client",
+      "tag": "JAVA / JS"
+    },
+    {
+      "no": "M4",
+      "title": "SCREENSHARE KIT",
+      "note": "hwid, task scheduler + service checks",
+      "tag": "PS1"
+    },
+    {
+      "mc": true,
+      "crossed": "practice",
+      "title": "tea break",
+      "note": "(non-negotiable)"
+    },
+    {
+      "no": "M5",
+      "title": "TAMKEEN",
+      "note": "free exam prep used across saudi schools",
+      "tag": "EDU"
+    },
+    {
+      "no": "M6",
+      "title": "KOTAE!",
+      "note": "anime jeopardy for one-screen game nights",
+      "tag": "WIP"
+    },
+    {
+      "no": "M7",
+      "title": "ANITRACKER",
+      "note": "auto-updates your MAL while you watch",
+      "tag": "WIP"
+    },
+    {
+      "no": "EN",
+      "title": "ANTI-CHEAT",
+      "note": "the long game",
+      "tag": "SOON"
+    }
+  ],
+  "pedals": [
+    {
+      "name": "LINUX",
+      "fx": "TUNER",
+      "sub": "bash · arch btw",
+      "icon": "linux",
+      "color": "#ECE6D8",
+      "display": "~$",
+      "led": "#38e08f"
+    },
+    {
+      "name": "OFFSEC",
+      "fx": "FUZZ",
+      "sub": "burp · msf · osint",
+      "icon": "burp",
+      "color": "#F43092",
+      "knobs": [
+        {
+          "label": "FUZZ",
+          "at": 95
+        },
+        {
+          "label": "BIAS",
+          "at": -30
+        },
+        {
+          "label": "LEVEL",
+          "at": 40
+        }
+      ]
+    },
+    {
+      "name": "DFIR",
+      "fx": "NOISE GATE",
+      "sub": "forensics · threat hunts",
+      "icon": "wireshark",
+      "color": "#50A5AA",
+      "knobs": [
+        {
+          "label": "THRESH",
+          "at": -60
+        },
+        {
+          "label": "DECAY",
+          "at": 20
+        }
+      ]
+    },
+    {
+      "name": "PYTHON",
+      "fx": "OVERDRIVE",
+      "sub": "automation · scraping",
+      "icon": "python",
+      "color": "#4958FB",
+      "knobs": [
+        {
+          "label": "DRIVE",
+          "at": 120
+        },
+        {
+          "label": "TONE",
+          "at": 10
+        },
+        {
+          "label": "LEVEL",
+          "at": 60
+        }
+      ]
+    },
+    {
+      "name": "JAVA",
+      "fx": "TREMOLO",
+      "sub": "minecraft plugins",
+      "icon": "cup",
+      "color": "#D21E4F",
+      "knobs": [
+        {
+          "label": "20 TPS",
+          "at": -20
+        },
+        {
+          "label": "DEPTH",
+          "at": 75
+        },
+        {
+          "label": "WAVE",
+          "at": -90
+        }
+      ]
+    },
+    {
+      "name": "JS / NODE",
+      "fx": "DELAY",
+      "sub": "discord bots · async",
+      "icon": "node",
+      "color": "#17171C",
+      "fg": "#7FE0B8",
+      "led": "#7FE0B8",
+      "knobs": [
+        {
+          "label": "TIME",
+          "at": -45
+        },
+        {
+          "label": "FDBK",
+          "at": 30
+        },
+        {
+          "label": "MIX",
+          "at": 0
+        }
+      ]
+    },
+    {
+      "name": "WEB",
+      "fx": "CHORUS",
+      "sub": "react · next · tailwind",
+      "icon": "react",
+      "color": "#7FE0B8",
+      "knobs": [
+        {
+          "label": "RATE",
+          "at": -70
+        },
+        {
+          "label": "DEPTH",
+          "at": 50
+        },
+        {
+          "label": "MIX",
+          "at": -10
+        }
+      ]
+    },
+    {
+      "name": "UNREAL",
+      "fx": "REVERB",
+      "sub": "c++ · blueprints",
+      "icon": "unreal",
+      "color": "#3E0D1C",
+      "led": "#F43092",
+      "knobs": [
+        {
+          "label": "SPACE",
+          "at": 130
+        },
+        {
+          "label": "DECAY",
+          "at": 80
+        },
+        {
+          "label": "MIX",
+          "at": 20
+        }
+      ]
+    }
+  ],
+  "nowPlaying": {
+    "title": "放課後ティータイム (live)",
+    "sub": "video.mp4 · sound on · the opening act",
+    "length": "1:30",
+    "seconds": 90
+  },
+  "marquee": [
+    {
+      "t": "★ ",
+      "c": "mint"
+    },
+    {
+      "t": "NOW SHOWING ",
+      "c": "amber"
+    },
+    {
+      "t": "RIO @ NYU",
+      "c": "white"
+    },
+    {
+      "t": "   ★ ",
+      "c": "mint"
+    },
+    {
+      "t": "STUDYING ",
+      "c": "amber"
+    },
+    {
+      "t": "PNPT · WINDOWS FORENSICS",
+      "c": "pink"
+    },
+    {
+      "t": "   ★ ",
+      "c": "mint"
+    },
+    {
+      "t": "LEARNING ",
+      "c": "amber"
+    },
+    {
+      "t": "ELECTRIC GUITAR · 日本語",
+      "c": "pink"
+    },
+    {
+      "t": "   ★ ",
+      "c": "mint"
+    },
+    {
+      "t": "BUILDING ",
+      "c": "amber"
+    },
+    {
+      "t": "KOTAE! · OBSESSIVE.CC",
+      "c": "pink"
+    },
+    {
+      "t": "   ★ ",
+      "c": "mint"
+    },
+    {
+      "t": "当日券あり ",
+      "c": "white"
+    },
+    {
+      "t": "(WALK-INS WELCOME)",
+      "c": "amber"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "site",
+      "icon": "globe",
+      "label": "WEBSITE",
+      "value": "obsessive.cc",
+      "href": "https://www.obsessive.cc",
+      "accent": "#F43092"
+    },
+    {
+      "id": "mail",
+      "icon": "mail",
+      "label": "EMAIL",
+      "value": "hello@obsessive.cc",
+      "href": "mailto:hello@obsessive.cc",
+      "accent": "#4958FB"
+    },
+    {
+      "id": "discord",
+      "icon": "discord",
+      "label": "DISCORD",
+      "value": "slide in the DMs",
+      "href": "https://discord.com/users/813070605158580254",
+      "accent": "#7FE0B8"
+    },
+    {
+      "id": "x",
+      "icon": "x",
+      "label": "X",
+      "value": "@obsessivecc",
+      "href": "https://x.com/obsessivecc",
+      "accent": "#F6D9C1"
+    }
+  ],
+  "footer": {
+    "jp": "終演",
+    "en": "END OF SHOW · SEE YOU AT THE NEXT LIVE",
+    "bye": "またね"
+  },
+  "paDesk": {
+    "enabled": false
+  }
+}

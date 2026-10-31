@@ -1,0 +1,16 @@
+{
+  "name": "obsessivebf-stage",
+  "private": true,
+  "type": "module",
+  "description": "Renders the README graphics (ticket, setlist, pedalboard, ...) from config.json",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "opentype.js": "2.0.0",
+    "qrcode": "1.5.4"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
